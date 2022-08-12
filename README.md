@@ -30,9 +30,8 @@
     "bracketSameLine": true,
   }
 ```
-- install eslint
-- npm install -D eslint 
-- npm init @eslint/config
+- install eslint -> npm install -D eslint 
+- configure eslint -> npm init @eslint/config
 - configure the .eslintrc.json file accroding to your needs -> https://eslint.org/docs/latest/rules/
 - for react hooks follow thins link - https://reactjs.org/docs/hooks-rules.html
 
