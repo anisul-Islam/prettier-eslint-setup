@@ -1,5 +1,7 @@
 # formatter-setup
 
+- [A good sourec for eslint and prettier setup when working with react](https://medium.com/how-to-react/config-eslint-and-prettier-in-visual-studio-code-for-react-js-development-97bb2236b31a#:~:text=Open%20the%20terminal%20in%20your,Code%20formatter%20and%20install%20it.)
+
 - .vscode -> settings.json
 ```json
     {
