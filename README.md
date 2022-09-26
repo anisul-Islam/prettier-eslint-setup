@@ -37,3 +37,38 @@
 - configure the .eslintrc.json file accroding to your needs -> https://eslint.org/docs/latest/rules/
 - for react hooks follow thins link - https://reactjs.org/docs/hooks-rules.html
 
+```json
+// .prettierrc.json
+{
+  "semi": false,
+  "singleQuote": true
+}
+
+```
+```json
+// .eslintrc.json
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2021": true
+  },
+  "extends": "eslint:recommended",
+  "overrides": [],
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+  "rules": {
+    "no-var": "error",
+    "camelcase": "error",
+    "no-empty": "error",
+    "default-case": "error",
+    "eqeqeq": "error",
+    "max-lines": ["error", 50],
+    "max-depth": ["error", 3]
+  }
+}
+
+
+```
+
