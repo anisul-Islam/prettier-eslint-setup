@@ -30,6 +30,14 @@
 ```json
   {
     "bracketSameLine": true,
+    "bracketSpacing": true,
+    "printWidth": 200,
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "useTabs": false
+
   }
 ```
 - install eslint -> npm install -D eslint 
