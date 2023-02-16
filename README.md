@@ -59,4 +59,4 @@
 }
 ```
 
-- 10. apply prettier now -> npx prettier --write
+- 10. apply prettier now -> npx prettier --write .
