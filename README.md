@@ -27,7 +27,7 @@
 - 5. check & install eslint -> npm ls eslint / npm install eslint --save-dev
     - configure eslint -> npm init @eslint/config
 
-- 6. check & install eslint-plugin-react -> npm ls eslint-plugin-react / npm install eslint-plugin-react --save-dev
+- 6. check & install eslint-plugin-react -> npm ls eslint-plugin-react-hooks / npm i eslint-plugin-react-hooks --save-dev
 
 - 7. check & install eslint-react-hooks -> npm ls eslint-react-hooks / npm install eslint-react-hooks --save-dev  ->  - for react hooks follow thins link - https://reactjs.org/docs/hooks-rules.html
 
